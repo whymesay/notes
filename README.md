@@ -12,5 +12,5 @@
 [Innodb中的事务隔离级别和锁的关系](https://tech.meituan.com/2014/08/20/innodb-lock.html)
 
 ## 技术博客
-1.[美团技术团队](https://tech.meituan.com/)
-2.[Javadoop](https://javadoop.com/)
+1. [美团技术团队](https://tech.meituan.com/)
+2. [Javadoop](https://javadoop.com/)
