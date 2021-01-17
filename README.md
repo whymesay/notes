@@ -26,5 +26,5 @@
 [6w字搞定Linux基本操作，建议收藏](https://juejin.cn/post/6917096816118857736)
 
 ## 技术博客
-1. [美团技术团队](https://tech.meituan.com/)
-2. [Javadoop](https://javadoop.com/)
+- [美团技术团队](https://tech.meituan.com/)
+- [Javadoop](https://javadoop.com/)
