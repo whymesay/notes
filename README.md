@@ -10,6 +10,9 @@
 ## 数据库
 ### MySql
 [Innodb中的事务隔离级别和锁的关系](https://tech.meituan.com/2014/08/20/innodb-lock.html)
+## 操作系统
+### Linux
+[6w字搞定Linux基本操作，建议收藏](https://juejin.cn/post/6917096816118857736)
 
 ## 技术博客
 1. [美团技术团队](https://tech.meituan.com/)
